@@ -1,13 +1,13 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
+- 👨‍🎓I'm a 17 year old student
+- 🇩🇪 from Germany
 - 🌱 I’m currently learning F# & Rust
 - 💬 Ask me about Algorithms & Data Structures
 - 📫 How to reach me:
   - Discord Kai#2345
   - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
 - 😄 Pronouns: he/him
+- 🚣 I love Sailing
 
 ### Some stats
 My Stats:<br>
