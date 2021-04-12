@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍🎓 I'm a 17 year old student
 - 🇩🇪 from Germany
-- 💬 Ask me about Algorithms, Data Structures, Graphs & Trees!
+- 💬 Ask me about Algorithms, Data Structures, Graphs (and everything related 😄)!
 - 📫 How to reach me:
   - You can find me on the [C# Discord server](http://aka.ms/csharp-discord) as Kai#2345!
   - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
