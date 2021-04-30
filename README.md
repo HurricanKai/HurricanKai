@@ -12,7 +12,7 @@
 
 I'm a Maintainer at
 
-[![dotnet/Silk.NET](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=Silk.NET&show_icons=true&show_owner=true)](https://github.com/dotnet/Silk.NET)
+[![dotnet/Silk.NET](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=Silk.NET&show_icons=true&show_owner=true&theme=dark)](https://github.com/dotnet/Silk.NET)
 
 ### Some stats
 My Stats:<br>
