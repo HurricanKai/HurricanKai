@@ -16,7 +16,7 @@ I'm a Maintainer at
 
 ### Some stats
 My Stats:<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HurricanKai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HurricanKai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Language Stats (not my most prefered languages, just most used via GitHub & readme-stats):<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurricanKai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HurricanKai&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
