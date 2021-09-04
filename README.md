@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍🎓 I'm a 17 year old student
+- 👨‍🎓 I'm an 18 year old student
 - 🇩🇪 from Germany
 - 💬 Ask me about Algorithms, Data Structures, Graphs (and everything related 😄)!
 - 📫 How to reach me:
