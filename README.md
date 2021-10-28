@@ -7,6 +7,8 @@
   - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
 - ⛵ I love Sailing
 
+[See my resume](https://registry.jsonresume.org/HurricanKai)
+
 <a href="http://aka.ms/csharp-discord"><img src="https://discordapp.com/api/guilds/143867839282020352/widget.png?style=banner2" alt="Banner image of the CSharp Discord server"/></a>
 
 
