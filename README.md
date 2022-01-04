@@ -23,5 +23,5 @@ My Stats:<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HurricanKai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Language Stats (not my most prefered languages, just most used via GitHub & readme-stats):<br>
-<!--![Top Langs](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/616ab801-f2e6-406d-8611-71949bdd70ed.svg#gh-light-mode-only)-->
-![Top Langs](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/41363de1-90c6-4d66-9d14-b3ae97d1e349.svg#gh-dark-mode-only)
+<!--![Top Langs Light](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/7130ddc1-b139-4c0e-9de3-d2961118678d.png#gh-light-mode-only)-->
+![Top Langs Dark](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/7a4fcc57-f3e9-45e6-96d0-bb84a77d8f67.png#gh-dark-mode-only)
