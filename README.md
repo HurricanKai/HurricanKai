@@ -22,6 +22,5 @@ I'm a Maintainer at
 My Stats:<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HurricanKai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Language Stats (not my most prefered languages, just most used via GitHub & readme-stats):<br>
 <!--![Top Langs Light](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/7130ddc1-b139-4c0e-9de3-d2961118678d.png#gh-light-mode-only)-->
 ![Top Langs Dark](https://wakatime.com/share/@52e2ed40-883a-444e-abb0-d6b6c489f1f6/7a4fcc57-f3e9-45e6-96d0-bb84a77d8f67.png#gh-dark-mode-only)
