@@ -3,8 +3,9 @@
 - 🇩🇪 from Germany
 - 💬 Ask me about Algorithms, Data Structures, Graphs (and everything related 😄)!
 - 📫 How to reach me:
-  - You can find me on the [C# Discord server](http://aka.ms/csharp-discord) as Kai#2345!
+  - You can find me on the [C# Discord server](http://aka.ms/csharp-discord) as Kai1#8684!
   - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
+- 📖 Learning about Smart Contracts, Solidity and Web Design (Svelte & FAST.design)
 - ⛵ I love Sailing
 
 [See my resume](https://registry.jsonresume.org/HurricanKai)
