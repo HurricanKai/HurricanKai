@@ -9,7 +9,7 @@
 - ⛵ I love Sailing
 - 🐧 Moving to linux
 
-[See my resume](https://registry.jsonresume.org/HurricanKai)
+<!--[See my resume](https://registry.jsonresume.org/HurricanKai)-->
 
 <a href="http://aka.ms/csharp-discord"><img src="https://discordapp.com/api/guilds/143867839282020352/widget.png?style=banner2" alt="Banner image of the CSharp Discord server"/></a>
 
