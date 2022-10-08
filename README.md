@@ -5,7 +5,10 @@ Always open to talk about interesting projects, collaborations, etc.
 - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
 
 I'm working on serverless, FaaS, edge. Originally in C#/.NET, now in Rust/WASM.
+
 I know JS/React/Svelte but prefer being a backend developer :smile:
+
+I believe performance & efficency should be part of any toolkit and I try to build anything with performance out of the box.
 
 <!--[See my resume](https://registry.jsonresume.org/HurricanKai)-->
 
