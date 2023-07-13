@@ -4,7 +4,7 @@ Always open to talk about interesting projects, collaborations, etc.
 - Find me on discord as Kai1#8684
 - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
 
-I'm working on serverless, FaaS, edge. Originally in C#/.NET, now in Rust/WASM.
+I'm working on serverless, FaaS, edge. Originally in C#/.NET, now in Rust/WASM & Zig.
 
 I know JS/React/Svelte but prefer being a backend developer :smile:
 
