@@ -22,7 +22,6 @@ I'm a Maintainer at
 
 
 [![dotnet/Silk.NET](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=Silk.NET&show_icons=true&show_owner=true&theme=dark)](https://github.com/dotnet/Silk.NET)<br/>
-[![wakatime](https://wakatime.com/badge/user/52e2ed40-883a-444e-abb0-d6b6c489f1f6/project/b081d9ac-e31d-4b28-a6ee-0a7a5a10d913.svg)](https://wakatime.com/badge/user/52e2ed40-883a-444e-abb0-d6b6c489f1f6/project/b081d9ac-e31d-4b28-a6ee-0a7a5a10d913)
 
 ### Stats
 My Stats:<br>
