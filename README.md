@@ -1,5 +1,5 @@
 ### Hi there 👋
-Kai is a OSS developer from Germany & Student @ [KIT](https://kit.edu)
+I'm an OSS developer from Germany & Student @ [KIT](https://kit.edu)
 I'm a platforms engineer at heart and have spent years enabling others to built software big and small. Most of my work is totally free and open source, so please do consider supporting me! https://github.com/sponsors/HurricanKai
 
 Always interested in Algorithms, Graphics, Scheduling.
