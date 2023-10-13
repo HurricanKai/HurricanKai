@@ -2,6 +2,8 @@
 I'm an OSS developer from Germany & Student @ [KIT](https://kit.edu)
 I'm a platforms engineer at heart and have spent years enabling others to built software big and small. Most of my work is totally free and open source, so please do consider supporting me! https://github.com/sponsors/HurricanKai
 
+**[DO FIND ME ON MY OWN GIT SERVER](https://git.kaij.party/)**
+
 Always interested in Algorithms, Graphics, Scheduling.
 Always open to talk about interesting projects, collaborations, etc.
 - Find me on discord as Kai1#8684
