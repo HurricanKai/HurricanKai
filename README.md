@@ -1,21 +1,17 @@
 ### Hi there 👋
-I'm an OSS developer from Germany & Student @ [KIT](https://kit.edu)
+I'm an OSS developer from Germany.
 I'm a platforms engineer at heart and have spent years enabling others to built software big and small. Most of my work is totally free and open source, so please do consider supporting me! https://github.com/sponsors/HurricanKai
 
-**[DO FIND ME ON MY OWN GIT SERVER](https://git.kaij.party/)**
-
-Always interested in Algorithms, Graphics, Scheduling.
+Always interested in Algorithms, Graph(ic)s, Scheduling.
 Always open to talk about interesting projects, collaborations, etc.
-- Find me on discord as Kai1#8684
+- Find me on discord as `@kaijellinghaus`
 - Send me an email at [contact@kaij.tech](mailto:contact@kaij.tech)
 
 I'm working on serverless, FaaS, edge - I'm a platforms engineer at heart. Originally in C#/.NET, now in Rust/WASM & Zig.
 
 I know JS/React/Svelte but prefer being a backend developer :smile:
 
-Performance & efficency should be part of any toolkit and I try to build anything with performance out of the box.
-
-Used to work professionally, now Student @ [KIT](https://kit.edu)
+Performance & efficiency should be part of any toolkit and I try to build anything with performance out of the box.
 
 <!--[See my resume](https://registry.jsonresume.org/HurricanKai)-->
 
